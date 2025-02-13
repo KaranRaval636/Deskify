@@ -5,7 +5,7 @@
 <h2>🔗Live Demo</h2>
 
 Check out the live version of the project here:
-🔗 
+🔗 https://karanraval636.github.io/Deskify/
 
 <h2>📸ScreenShots</h2>
 
