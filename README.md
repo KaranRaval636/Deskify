@@ -9,7 +9,7 @@ Check out the live version of the project here:
 
 <h2>📸ScreenShots</h2>
 
-![screencapture-127-0-0-1-5500-Deskify-src-index-html-2025-02-13-15_22_40](https://github.com/user-attachments/assets/85f4f23e-207e-4d47-86d7-869b3d235ee9)
+![screencapture-127-0-0-1-5500-Deskify-src-index-html-2025-02-13-15_22_40](https://github.com/user-attachments/assets/06f2d704-29ab-44fd-a76b-bdd6e7c92167)
 
 
 
